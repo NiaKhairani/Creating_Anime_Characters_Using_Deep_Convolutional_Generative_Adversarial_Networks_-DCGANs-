@@ -1,6 +1,5 @@
-<h1 align="center"> Creating Anime Characters Using Deep Convolutional Generative Adversarial Networks (DCGANs)<h1>
-<p align="center">Welcome to the "Creating Anime Characters using DCGAN and Keras" repository!</p>
-
+<h1 align="center"> Creating Anime Characters Using Deep Convolutional Generative Adversarial Networks (DCGANs)</h1>
+<p align="center"> Welcome to the "Creating Anime Characters using DCGAN and Keras" repository!</p>
 </p>
 <div align="center">
   
