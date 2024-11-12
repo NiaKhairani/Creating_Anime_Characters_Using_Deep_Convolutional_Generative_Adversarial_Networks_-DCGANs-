@@ -28,7 +28,7 @@ Generative Adversarial Networks (GAN) are generative models that transform rando
 - Front-End Face Generation
 - Generate New Human Poses
 
-##Pustaka
+#Pustaka
 pandas --> for managing the data.
 numpy --> for mathematical operations.
 sklearn --> for machine learning and machine-learning-pipeline related functions.
@@ -37,7 +37,7 @@ matplotlib --> for additional plotting tools.
 keras --> for loading datasets.
 tensorflow --> for machine learning and neural network related functions.
 
-##Objectives
+#Objectives
 Understand the original formulation of GANs, and their two separately trained networks: Generator and Discriminator
 Implement GANs on simulated and real datasets
 Apply DCGANs to a dataset
