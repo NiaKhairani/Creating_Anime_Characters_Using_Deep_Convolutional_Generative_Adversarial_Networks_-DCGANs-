@@ -26,21 +26,21 @@
 - Generate New Human Poses
 
 ### Pustaka 🔍
-pandas --> for managing the data.
-numpy --> for mathematical operations.
-sklearn --> for machine learning and machine-learning-pipeline related functions.
-seaborn --> for visualizing the data.
-matplotlib --> for additional plotting tools.
-keras --> for loading datasets.
-tensorflow --> for machine learning and neural network related functions.
+- pandas --> for managing the data.
+-numpy --> for mathematical operations.
+- sklearn --> for machine learning and machine-learning-pipeline related functions.
+- seaborn --> for visualizing the data.
+- matplotlib --> for additional plotting tools.
+- keras --> for loading datasets.
+- tensorflow --> for machine learning and neural network related functions.
 
 ### Objectives 🧐
-Understand the original formulation of GANs, and their two separately trained networks: Generator and Discriminator
-Implement GANs on simulated and real datasets
-Apply DCGANs to a dataset
-Understand how to train DCGANs
-Generate an image using a DCGAN
-Understand how changing the input of the latent space of DCGANs changes the generated image
+- Understand the original formulation of GANs, and their two separately trained networks: Generator and Discriminator
+- Implement GANs on simulated and real datasets
+- Apply DCGANs to a dataset
+- Understand how to train DCGANs
+- Generate an image using a DCGAN
+- Understand how changing the input of the latent space of DCGANs changes the generated image
 
 ### Conclusion
 DCGAN technology is a great choice for large-scale, high-quality anime character creation. With its efficient pipeline and ability to automatically generate unique images, DCGAN is very useful in creative industries, such as games or other visual applications, where character creation requires large variations but short production times.
